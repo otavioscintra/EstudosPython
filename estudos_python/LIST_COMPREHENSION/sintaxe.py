@@ -1,0 +1,11 @@
+#https://www.youtube.com/watch?v=1YbTDczvqco
+
+numeros = [1,2,3,4,5]
+# novos_numeros = [numero for numero in numeros]
+
+novos_numeros = []
+for numero in numeros:
+    novos_numeros.append(numero)
+
+numeros[0] = 20
+print(novos_numeros)

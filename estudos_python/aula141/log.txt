@@ -1,0 +1,5 @@
+
+Success: Redmi 12 está ligado (Smartphone)
+Success: iPhone está ligado (Smartphone)
+Error: iPhone está desligado (Smartphone)
+Error: Redmi 12 está desligado (Smartphone)
